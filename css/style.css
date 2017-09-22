@@ -1,0 +1,22 @@
+img#logo {
+    position: absolute;
+}
+
+.navbar-right li {
+	color: black;
+}
+
+.navbar-default .navbar-nav > li > a  {
+	color: black;
+}
+
+.opener {
+	position: absolute;
+}
+
+.jumbotron {
+	position: relative;
+	margin-top: -600px;
+	background: transparent;
+    color: white;
+}
